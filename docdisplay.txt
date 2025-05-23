@@ -1,0 +1,1 @@
+[[title^❖❝** [title] **❞❖[\n]^]][[universe^**From [universe]**[\n]^]][[age^Age : [age][\n]^]][[gender^[gender][\n]^]][\n][[description^**Bio:**[\n][description][\n]^]][\n][[script^**Script:**[\n][script][\n]^]][[element^**Element:**[\n][element][\n]^]]
